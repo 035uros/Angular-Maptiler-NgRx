@@ -5,11 +5,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Overview
 
 App starts with map and 5 preloaded pins of the Faculties from University of Kragujevac.
+
 ![main](https://raw.githubusercontent.com/035uros/Angular-Maptiler-NgRx/main/imgs/1.PNG)
 
 Controls in top-right corner are used for navigation(zoom in, zoom out, rotate).
 
 By clicking on the pin pop-up message appear and application zoom in on clicked pin.
+
 ![pin](https://raw.githubusercontent.com/035uros/Angular-Maptiler-NgRx/main/imgs/2.PNG)
 
 All pins are dragable and adjustable. Clicking on CENTER button application will find mean of all pins and place the view in middle of them.
