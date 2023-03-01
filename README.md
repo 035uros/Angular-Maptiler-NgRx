@@ -20,7 +20,7 @@ All pins are dragable and adjustable. Clicking on CENTER button application will
 
 The MapTiler Server API allows you to programmatically access all the data, maps, and resources in the MapTiler Server. Through the API, you can add a map directly to your website, request map tiles, create an image with a location map for your business, and more.
 
-In order to use my code you will just need to replace string 'your key' with your API key. String is located in src/enviroments/enviroment.ts
+In order to use my code you will just need to replace string `'your key'` with your API key. String is located in `src/enviroments/enviroment.ts`
 
 
 ## Development server
